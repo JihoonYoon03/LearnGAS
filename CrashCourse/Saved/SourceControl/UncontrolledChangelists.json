@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/wlgns/Documents/Github/GASCrashCourse/CrashCourse/Content/CrashCourse/Maps/CCMap.umap",
-				"C:/Users/wlgns/Documents/Github/GASCrashCourse/CrashCourse/Content/ParagonMinions/FX/Textures/Environment/T_RevaCliff_D.uasset"
+				"C:/Users/wlgns/Documents/Github/GASCrashCourse/CrashCourse/Content/ParagonMinions/FX/Textures/Environment/T_RevaCliff_D.uasset",
+				"C:/Users/wlgns/Documents/Github/GASCrashCourse/CrashCourse/Content/ParagonBoris/FX/Materials/Heroes/Boris/Abilities/M_ImpactSlash.uasset"
 			]
 		}
 	]
