@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\wlgns\\documents\\github\\gascrashcourse\\crashcourse\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\crashcourse\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\wlgns\\documents\\github\\gascrashcourse\\crashcourse\\intermediate\\build\\win64\\x64\\crashcourseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\wlgns\\documents\\github\\gascrashcourse\\crashcourse\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\crashcourse\\definitions.crashcourse.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

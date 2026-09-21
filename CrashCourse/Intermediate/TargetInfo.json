@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CrashCourse",
+			"Path": "..\\Source\\CrashCourse.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CrashCourseEditor",
+			"Path": "..\\Source\\CrashCourseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

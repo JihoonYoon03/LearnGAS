@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\wlgns\\documents\\github\\gascrashcourse\\crashcourse\\source\\crashcourse\\crashcourse.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\wlgns\\documents\\github\\gascrashcourse\\crashcourse\\intermediate\\build\\win64\\x64\\crashcourseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\wlgns\\documents\\github\\gascrashcourse\\crashcourse\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\crashcourse\\definitions.crashcourse.h",
+            "c:\\users\\wlgns\\documents\\github\\gascrashcourse\\crashcourse\\source\\crashcourse\\crashcourse.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

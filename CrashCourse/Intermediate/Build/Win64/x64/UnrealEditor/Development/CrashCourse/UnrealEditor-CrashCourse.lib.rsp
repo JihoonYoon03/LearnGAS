@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CrashCourse.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/wlgns/Documents/Github/GASCrashCourse/CrashCourse/Intermediate/Build/Win64/x64/CrashCourseEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/wlgns/Documents/Github/GASCrashCourse/CrashCourse/Intermediate/Build/Win64/x64/UnrealEditor/Development/CrashCourse/CrashCourse.cpp.obj"
+"C:/Users/wlgns/Documents/Github/GASCrashCourse/CrashCourse/Intermediate/Build/Win64/x64/UnrealEditor/Development/CrashCourse/PerModuleInline.gen.cpp.obj"
+"C:/Users/wlgns/Documents/Github/GASCrashCourse/CrashCourse/Intermediate/Build/Win64/x64/UnrealEditor/Development/CrashCourse/Default.rc2.res"
+/OUT:"C:/Users/wlgns/Documents/Github/GASCrashCourse/CrashCourse/Intermediate/Build/Win64/x64/UnrealEditor/Development/CrashCourse/UnrealEditor-CrashCourse.lib"
